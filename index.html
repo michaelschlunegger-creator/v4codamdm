@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CODA MDM Sales Trainer</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css?v=244" />
+  </head>
+  <body>
+    <div class="app-layout">
+      <aside class="selector-panel">
+        <header class="hero-card">
+          <img src="coda-logo.png" alt="CODA logo" class="hero-logo" />
+          <p class="eyebrow">CODA Sales Studio</p>
+          <h1>MDM Roleplay Coach</h1>
+          <p>
+            Follow the guided flow so every dialogue stays structured and keeps
+            the red-path toward a PoC in sight.
+          </p>
+          <div class="metrics-row" aria-label="Training library stats">
+            <div class="metric">
+              <p class="eyebrow">Industries</p>
+              <p id="metricIndustries" class="metric-value">—</p>
+            </div>
+            <div class="metric">
+              <p class="eyebrow">Personas</p>
+              <p id="metricPersonas" class="metric-value">—</p>
+            </div>
+            <div class="metric">
+              <p class="eyebrow">Questions</p>
+              <p id="metricQuestions" class="metric-value">—</p>
+            </div>
+          </div>
+          <ol class="flow-steps" aria-label="Roleplay flow">
+            <li><span>1</span>Choose the industry or vertical.</li>
+            <li><span>2</span>Select the persona or position.</li>
+            <li>
+              <span>3</span>Start the Roleplay with an initial Question to
+              the Persona to set the stage. Choose 1 of the options as the
+              Persona's Answers.
+            </li>
+          </ol>
+        </header>
+
+        <section class="selector-block">
+          <h2>Step 1 · Industry / Vertical</h2>
+          <ul id="industryList" class="chip-list"></ul>
+          <div id="industryDetails" class="industry-details">
+            <p>Select an industry to see the story and hooks that land.</p>
+          </div>
+        </section>
+
+        <section class="selector-block">
+          <h2>Step 2 · Persona / Position</h2>
+          <ul id="personaList" class="persona-list">
+            <li class="placeholder">Pick an industry to unlock personas.</li>
+          </ul>
+        </section>
+
+        <section class="selector-block">
+          <h2>Step 3 · Start Roleplay</h2>
+          <div id="startSection" class="start-section">
+            <p id="startInstructions">
+              Complete Step 1 (Industry) and Step 2 (Persona, position, and
+              CODA value) to activate the roleplay.
+            </p>
+            <button id="startTraining" class="primary-btn" disabled>
+              Start Roleplay
+            </button>
+          </div>
+        </section>
+      </aside>
+
+      <main class="content-panel">
+        <section id="personaDetails" class="persona-brief" aria-live="polite">
+          <h2>Persona briefing</h2>
+          <p>
+            Select a persona to view the storyline, value focus, and the best
+            probing path.
+          </p>
+        </section>
+
+        <section class="conversation-panel">
+          <div class="scenario-header">
+            <div>
+              <p class="eyebrow">Scenario</p>
+              <h3 id="scenarioTitle">Choose a persona to begin</h3>
+              <p id="scenarioDescription">
+                The dramatic opening question will appear here.
+              </p>
+            </div>
+            <button id="restartScenario" class="ghost-btn" disabled>
+              Restart
+            </button>
+          </div>
+
+          <div class="progress-wrapper" aria-live="polite">
+            <p id="progressLabel" class="progress-label">Step 0 of 0</p>
+            <div class="progress-bar">
+              <div id="progressFill" class="progress-fill"></div>
+            </div>
+          </div>
+
+          <div id="contextBadges" class="context-badges" aria-live="polite">
+            <span class="badge">No persona selected yet.</span>
+          </div>
+
+          <div class="roleplay-card">
+            <div class="roleplay-header">
+              <p class="eyebrow">Roleplay</p>
+              <h3>Live dialogue and notes</h3>
+              <p>
+                Drive the Q&A while capturing comments that keep CODA's value in
+                focus for the persona.
+              </p>
+            </div>
+
+            <div class="roleplay-grid">
+              <div class="roleplay-column">
+                <div class="section-title-row">
+                  <h4>Dialogue log</h4>
+                </div>
+                <div id="conversationLog" class="conversation-log">
+                  <p class="empty-state">
+                    No dialogue yet. Select a persona and start the roleplay.
+                  </p>
+                </div>
+              </div>
+
+              <div class="roleplay-column">
+                <div class="section-title-row">
+                  <h4>Question &amp; answers</h4>
+                </div>
+                <div class="current-step">
+                  <p id="currentPrompt" class="current-question">
+                    <strong>Question:</strong> —
+                  </p>
+                  <div id="answerOptions" class="answer-options"></div>
+                </div>
+                <div class="comment-box">
+                  <label for="coachingNotes">Comments / coaching notes</label>
+                  <textarea
+                    id="coachingNotes"
+                    name="coachingNotes"
+                    rows="4"
+                    placeholder="Capture reactions, objections, or CODA value hooks."
+                  ></textarea>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <aside class="coaching-panel">
+        <section id="redPathCard" class="redpath-card">
+          <h2>Red-path Strategy</h2>
+          <p>Persona-specific cues will appear after you select someone.</p>
+        </section>
+
+        <section class="feedback-panel">
+          <h2>Real-time Coaching</h2>
+          <div id="feedbackContent">
+            <div class="feedback-card">
+              <p><strong>Stay value-led.</strong> Keep CODA's benefit to the persona front and center.</p>
+              <ul>
+                <li>Link every reply to a CODA capability and the outcome they care about.</li>
+                <li>Call out the benefit in plain words: faster cash unlocks, safer uptime, or better control.</li>
+                <li>End with the next proof you will show, like a quick PoC or a dashboard.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+      </aside>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
