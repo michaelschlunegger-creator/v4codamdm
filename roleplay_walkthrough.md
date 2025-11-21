@@ -5,51 +5,51 @@ Generated transcripts for every persona to validate conversation flow and coachi
 ## Overview
 
 - Full library of every roleplay path available in the experience.
-- Industries: 6 | Personas: 35 | Questions: 105.
+- Industries: 6 | Personas: 35 | Questions: 175.
 
 ## Navigation
 
 - [Oil & Gas](#oil-gas)
-  - [Sloane Hartwell — CEO / CFO](#sloane-hartwell-ceo-cfo) (3 questions)
-  - [Rafael McBride — Finance / CFO](#rafael-mcbride-finance-cfo) (3 questions)
-  - [Priya Nandakumar — CIO / Head of IT](#priya-nandakumar-cio-head-of-it) (3 questions)
-  - [Caleb Drummond — Operations / Maintenance Head](#caleb-drummond-operations-maintenance-head) (3 questions)
-  - [Monica Reyes — Plant Manager / Site Manager](#monica-reyes-plant-manager-site-manager) (3 questions)
-  - [Darius O'Neill — Engineering / Asset Integrity Head](#darius-o-neill-engineering-asset-integrity-head) (3 questions)
-  - [Lena Grigori — Inventory Controller / Warehouse Manager](#lena-grigori-inventory-controller-warehouse-manager) (3 questions)
-  - [Hector Valdez — Procurement / Supply Chain Head](#hector-valdez-procurement-supply-chain-head) (3 questions)
-  - [Tessa Bloom — Category Manager / Strategic Sourcing](#tessa-bloom-category-manager-strategic-sourcing) (3 questions)
-  - [Ivy Carrow — Digital Transformation Lead](#ivy-carrow-digital-transformation-lead) (3 questions)
+  - [Sloane Hartwell — CEO / CFO](#sloane-hartwell-ceo-cfo) (5 questions)
+  - [Rafael McBride — Finance / CFO](#rafael-mcbride-finance-cfo) (5 questions)
+  - [Priya Nandakumar — CIO / Head of IT](#priya-nandakumar-cio-head-of-it) (5 questions)
+  - [Caleb Drummond — Operations / Maintenance Head](#caleb-drummond-operations-maintenance-head) (5 questions)
+  - [Monica Reyes — Plant Manager / Site Manager](#monica-reyes-plant-manager-site-manager) (5 questions)
+  - [Darius O'Neill — Engineering / Asset Integrity Head](#darius-o-neill-engineering-asset-integrity-head) (5 questions)
+  - [Lena Grigori — Inventory Controller / Warehouse Manager](#lena-grigori-inventory-controller-warehouse-manager) (5 questions)
+  - [Hector Valdez — Procurement / Supply Chain Head](#hector-valdez-procurement-supply-chain-head) (5 questions)
+  - [Tessa Bloom — Category Manager / Strategic Sourcing](#tessa-bloom-category-manager-strategic-sourcing) (5 questions)
+  - [Ivy Carrow — Digital Transformation Lead](#ivy-carrow-digital-transformation-lead) (5 questions)
 - [Utilities](#utilities)
-  - [Mara Kingsley — COO / CFO](#mara-kingsley-coo-cfo) (3 questions)
-  - [Owen Talbot — Grid Operations Director](#owen-talbot-grid-operations-director) (3 questions)
-  - [Janelle Farrow — Supply Chain / SCM](#janelle-farrow-supply-chain-scm) (3 questions)
-  - [Rishi Menon — Asset Engineering](#rishi-menon-asset-engineering) (3 questions)
-  - [Noor Calder — Digital Transformation Lead](#noor-calder-digital-transformation-lead) (3 questions)
+  - [Mara Kingsley — COO / CFO](#mara-kingsley-coo-cfo) (5 questions)
+  - [Owen Talbot — Grid Operations Director](#owen-talbot-grid-operations-director) (5 questions)
+  - [Janelle Farrow — Supply Chain / SCM](#janelle-farrow-supply-chain-scm) (5 questions)
+  - [Rishi Menon — Asset Engineering](#rishi-menon-asset-engineering) (5 questions)
+  - [Noor Calder — Digital Transformation Lead](#noor-calder-digital-transformation-lead) (5 questions)
 - [Manufacturing](#manufacturing)
-  - [Damon Kessler — VP Operations / CFO](#damon-kessler-vp-operations-cfo) (3 questions)
-  - [Alicia Trent — Plant Manager](#alicia-trent-plant-manager) (3 questions)
-  - [Victor Hanley — Procurement Lead](#victor-hanley-procurement-lead) (3 questions)
-  - [Serena Valtas — Quality / Engineering](#serena-valtas-quality-engineering) (3 questions)
-  - [Jordan Pike — Digital / Analytics Lead](#jordan-pike-digital-analytics-lead) (3 questions)
+  - [Damon Kessler — VP Operations / CFO](#damon-kessler-vp-operations-cfo) (5 questions)
+  - [Alicia Trent — Plant Manager](#alicia-trent-plant-manager) (5 questions)
+  - [Victor Hanley — Procurement Lead](#victor-hanley-procurement-lead) (5 questions)
+  - [Serena Valtas — Quality / Engineering](#serena-valtas-quality-engineering) (5 questions)
+  - [Jordan Pike — Digital / Analytics Lead](#jordan-pike-digital-analytics-lead) (5 questions)
 - [Healthcare & Life Sciences](#healthcare-life-sciences)
-  - [Dr. Liana Mercer — Chief Data Officer / CMIO](#dr-liana-mercer-chief-data-officer-cmio) (3 questions)
-  - [Evan Carlisle — Supply Chain Director](#evan-carlisle-supply-chain-director) (3 questions)
-  - [Priyanka Das — Clinical Engineering Director](#priyanka-das-clinical-engineering-director) (3 questions)
-  - [Malcolm Ivers — Quality & Compliance Officer](#malcolm-ivers-quality-compliance-officer) (3 questions)
-  - [Ciara Velasquez — Digital Health Lead](#ciara-velasquez-digital-health-lead) (3 questions)
+  - [Dr. Liana Mercer — Chief Data Officer / CMIO](#dr-liana-mercer-chief-data-officer-cmio) (5 questions)
+  - [Evan Carlisle — Supply Chain Director](#evan-carlisle-supply-chain-director) (5 questions)
+  - [Priyanka Das — Clinical Engineering Director](#priyanka-das-clinical-engineering-director) (5 questions)
+  - [Malcolm Ivers — Quality & Compliance Officer](#malcolm-ivers-quality-compliance-officer) (5 questions)
+  - [Ciara Velasquez — Digital Health Lead](#ciara-velasquez-digital-health-lead) (5 questions)
 - [Retail & eCommerce](#retail-ecommerce)
-  - [Nadia Holbrook — COO / Merchandising Lead](#nadia-holbrook-coo-merchandising-lead) (3 questions)
-  - [Felix Munroe — Supply Chain & Logistics Director](#felix-munroe-supply-chain-logistics-director) (3 questions)
-  - [Zoe Hartigan — eCommerce / Digital Product Lead](#zoe-hartigan-ecommerce-digital-product-lead) (3 questions)
-  - [Greta Linwood — Inventory Planning Manager](#greta-linwood-inventory-planning-manager) (3 questions)
-  - [Arman Duval — Data Governance / IT Director](#arman-duval-data-governance-it-director) (3 questions)
+  - [Nadia Holbrook — COO / Merchandising Lead](#nadia-holbrook-coo-merchandising-lead) (5 questions)
+  - [Felix Munroe — Supply Chain & Logistics Director](#felix-munroe-supply-chain-logistics-director) (5 questions)
+  - [Zoe Hartigan — eCommerce / Digital Product Lead](#zoe-hartigan-ecommerce-digital-product-lead) (5 questions)
+  - [Greta Linwood — Inventory Planning Manager](#greta-linwood-inventory-planning-manager) (5 questions)
+  - [Arman Duval — Data Governance / IT Director](#arman-duval-data-governance-it-director) (5 questions)
 - [Financial Services](#financial-services)
-  - [Callum Reeves — Chief Data Officer](#callum-reeves-chief-data-officer) (3 questions)
-  - [Petra Sandoval — Risk & Compliance Officer](#petra-sandoval-risk-compliance-officer) (3 questions)
-  - [Marcus Llewellyn — Operations / Claims Director](#marcus-llewellyn-operations-claims-director) (3 questions)
-  - [Saira Whitfield — Treasury / Finance Transformation](#saira-whitfield-treasury-finance-transformation) (3 questions)
-  - [Theo Marquez — Digital Channels Lead](#theo-marquez-digital-channels-lead) (3 questions)
+  - [Callum Reeves — Chief Data Officer](#callum-reeves-chief-data-officer) (5 questions)
+  - [Petra Sandoval — Risk & Compliance Officer](#petra-sandoval-risk-compliance-officer) (5 questions)
+  - [Marcus Llewellyn — Operations / Claims Director](#marcus-llewellyn-operations-claims-director) (5 questions)
+  - [Saira Whitfield — Treasury / Finance Transformation](#saira-whitfield-treasury-finance-transformation) (5 questions)
+  - [Theo Marquez — Digital Channels Lead](#theo-marquez-digital-channels-lead) (5 questions)
 
 ## Oil & Gas
 
@@ -98,6 +98,32 @@ What would you need to see in a 4-week pilot to greenlight funding?
 Why this question matters: This opener tests how the persona links "What would you need to see in a 4-week pilot to greenlight funding" to Working capital locked in redundant stock and Visibility across sites and systems, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link duplicates to cash release, quantify the pilot impact, and secure an executive sponsor for the PoC.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Working capital locked in redundant stock?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Working capital locked in redundant stock" to Working capital locked in redundant stock and Visibility across sites and systems, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link duplicates to cash release, quantify the pilot impact, and secure an executive sponsor for the PoC.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Working capital locked in redundant stock and Visibility across sites and systems, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link duplicates to cash release, quantify the pilot impact, and secure an executive sponsor for the PoC.
+
 
 ### Rafael McBride — Finance / CFO
 Company: HelioVista Energy
@@ -142,6 +168,32 @@ When auditors challenge material balances, what evidence do you rely on?
   - Coaching: Deferring to operations risks findings. Position CODA as the defensible system of record.
 
 Why this question matters: This opener tests how the persona links "When auditors challenge material balances, what evidence do you rely on" to Consolidated visibility across ERPs and Working-capital unlocks tied to data quality, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify leakage from misclassified spend, model the cash unlocked by cleansing, and propose a governance-led pilot.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Consolidated visibility across ERPs?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Consolidated visibility across ERPs" to Consolidated visibility across ERPs and Working-capital unlocks tied to data quality, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify leakage from misclassified spend, model the cash unlocked by cleansing, and propose a governance-led pilot.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Consolidated visibility across ERPs and Working-capital unlocks tied to data quality, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify leakage from misclassified spend, model the cash unlocked by cleansing, and propose a governance-led pilot.
 
 
@@ -190,6 +242,32 @@ How do you detect and resolve duplicates before they hit downstream systems?
 Why this question matters: This opener tests how the persona links "How do you detect and resolve duplicates before they hit downstream systems" to Cross-system master data flow and Governance ownership and approval paths, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Map the system landscape, agree on ownership, and show how CODA deduplicates across SAP, Maximo, and CMMS feeds.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Cross-system master data flow?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Cross-system master data flow" to Cross-system master data flow and Governance ownership and approval paths, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Map the system landscape, agree on ownership, and show how CODA deduplicates across SAP, Maximo, and CMMS feeds.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Cross-system master data flow and Governance ownership and approval paths, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Map the system landscape, agree on ownership, and show how CODA deduplicates across SAP, Maximo, and CMMS feeds.
+
 
 ### Caleb Drummond — Operations / Maintenance Head
 Company: HelioVista Energy
@@ -234,6 +312,32 @@ How do you decide the right safety stock when specs differ slightly across plant
   - Coaching: Infrequent reviews hide risk. Offer CODA as a continuous guardrail for spec drift.
 
 Why this question matters: This opener tests how the persona links "How do you decide the right safety stock when specs differ slightly across plants" to First-time-right job execution and BOM integrity across sites, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect misaligned descriptions to downtime risk, then show CODA keeping BOMs synchronized and buffers lean.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves First-time-right job execution?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves First-time-right job execution" to First-time-right job execution and BOM integrity across sites, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect misaligned descriptions to downtime risk, then show CODA keeping BOMs synchronized and buffers lean.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to First-time-right job execution and BOM integrity across sites, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect misaligned descriptions to downtime risk, then show CODA keeping BOMs synchronized and buffers lean.
 
 
@@ -282,6 +386,32 @@ What backup do you have when key planners or storeroom leads are unavailable?
 Why this question matters: This opener tests how the persona links "What backup do you have when key planners or storeroom leads are unavailable" to Uptime and schedule adherence and Reducing reliance on tribal knowledge, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie master-data reliability to downtime avoidance, then show CODA reducing dependency on a few veterans.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Uptime and schedule adherence?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Uptime and schedule adherence" to Uptime and schedule adherence and Reducing reliance on tribal knowledge, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie master-data reliability to downtime avoidance, then show CODA reducing dependency on a few veterans.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Uptime and schedule adherence and Reducing reliance on tribal knowledge, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie master-data reliability to downtime avoidance, then show CODA reducing dependency on a few veterans.
+
 
 ### Darius O'Neill — Engineering / Asset Integrity Head
 Company: HelioVista Energy
@@ -326,6 +456,32 @@ When specs differ across sites, how do you decide which standard wins?
   - Coaching: Site autonomy dilutes integrity. CODA enforces the chosen standard across the fleet.
 
 Why this question matters: This opener tests how the persona links "When specs differ across sites, how do you decide which standard wins" to Centralized and consistent asset data and BOM accuracy and revision control, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Start with data standardization across sites, then offer a focused validation on a critical asset class.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Centralized and consistent asset data?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Centralized and consistent asset data" to Centralized and consistent asset data and BOM accuracy and revision control, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Start with data standardization across sites, then offer a focused validation on a critical asset class.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Centralized and consistent asset data and BOM accuracy and revision control, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Start with data standardization across sites, then offer a focused validation on a critical asset class.
 
 
@@ -374,6 +530,32 @@ How do you keep auditors confident your on-hand balances are real?
 Why this question matters: This opener tests how the persona links "How do you keep auditors confident your on-hand balances are real" to Cycle-count accuracy and audit readiness and Duplicate detection across bins and sites, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify duplicate and non-moving stock, then prove CODA keeps receipts, barcodes, and descriptions aligned.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Cycle-count accuracy and audit readiness?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Cycle-count accuracy and audit readiness" to Cycle-count accuracy and audit readiness and Duplicate detection across bins and sites, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify duplicate and non-moving stock, then prove CODA keeps receipts, barcodes, and descriptions aligned.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Cycle-count accuracy and audit readiness and Duplicate detection across bins and sites, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify duplicate and non-moving stock, then prove CODA keeps receipts, barcodes, and descriptions aligned.
+
 
 ### Hector Valdez — Procurement / Supply Chain Head
 Company: HelioVista Energy
@@ -418,6 +600,32 @@ How do you decide which suppliers to consolidate or negotiate with first?
   - Coaching: Waiting for renewals leaves value on the table. CODA enables proactive category strategies.
 
 Why this question matters: This opener tests how the persona links "How do you decide which suppliers to consolidate or negotiate with first" to Duplicate prevention during sourcing and Speed to RFQ with complete specs, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Anchor on savings leakage from duplicates, then show CODA accelerating intake and enabling supplier rationalization.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Duplicate prevention during sourcing?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Duplicate prevention during sourcing" to Duplicate prevention during sourcing and Speed to RFQ with complete specs, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Anchor on savings leakage from duplicates, then show CODA accelerating intake and enabling supplier rationalization.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Duplicate prevention during sourcing and Speed to RFQ with complete specs, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Anchor on savings leakage from duplicates, then show CODA accelerating intake and enabling supplier rationalization.
 
 
@@ -466,6 +674,32 @@ When you build a negotiation pack, how confident are you in the underlying specs
 Why this question matters: This opener tests how the persona links "When you build a negotiation pack, how confident are you in the underlying specs" to Price variance across sites for identical items and Centralized supplier and material standards, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Uncover fragmented supplier pricing, then use CODA to normalize specs and expose consolidation opportunities.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Price variance across sites for identical items?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Price variance across sites for identical items" to Price variance across sites for identical items and Centralized supplier and material standards, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Uncover fragmented supplier pricing, then use CODA to normalize specs and expose consolidation opportunities.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Price variance across sites for identical items and Centralized supplier and material standards, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Uncover fragmented supplier pricing, then use CODA to normalize specs and expose consolidation opportunities.
+
 
 ### Ivy Carrow — Digital Transformation Lead
 Company: HelioVista Energy
@@ -510,6 +744,32 @@ What signal tells you a use case is at risk because of data quality?
   - Coaching: No signal equals surprises. CODA establishes the monitoring layer you need to scale.
 
 Why this question matters: This opener tests how the persona links "What signal tells you a use case is at risk because of data quality" to Data readiness for digital and automation use cases and Cross-site standards that enable scaling, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect failed digital projects to data quality, then propose a readiness check on a high-visibility use case.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Data readiness for digital and automation use cases?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Data readiness for digital and automation use cases" to Data readiness for digital and automation use cases and Cross-site standards that enable scaling, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect failed digital projects to data quality, then propose a readiness check on a high-visibility use case.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Data readiness for digital and automation use cases and Cross-site standards that enable scaling, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect failed digital projects to data quality, then propose a readiness check on a high-visibility use case.
 
 
@@ -560,6 +820,32 @@ What would make you greenlight a 4-week master-data pilot?
 Why this question matters: This opener tests how the persona links "What would make you greenlight a 4-week master-data pilot" to Evidence for regulatory filings and Working-capital release without reliability risk, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie duplicate materials to rate impacts, prove how CODA maintains auditable masters, and scope a pilot on a critical asset class.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Evidence for regulatory filings?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Evidence for regulatory filings" to Evidence for regulatory filings and Working-capital release without reliability risk, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie duplicate materials to rate impacts, prove how CODA maintains auditable masters, and scope a pilot on a critical asset class.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Evidence for regulatory filings and Working-capital release without reliability risk, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie duplicate materials to rate impacts, prove how CODA maintains auditable masters, and scope a pilot on a critical asset class.
+
 
 ### Owen Talbot — Grid Operations Director
 Company: Northwind Grid Co.
@@ -604,6 +890,32 @@ How do you decide storm stock levels across service centers?
   - Coaching: Guesswork hides risk. CODA provides a governed baseline to plan from.
 
 Why this question matters: This opener tests how the persona links "How do you decide storm stock levels across service centers" to First-time-right dispatch and Storm stock accuracy, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link bad descriptions to truck-roll risk, then show CODA keeping BOMs and compatible parts aligned across depots.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves First-time-right dispatch?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves First-time-right dispatch" to First-time-right dispatch and Storm stock accuracy, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link bad descriptions to truck-roll risk, then show CODA keeping BOMs and compatible parts aligned across depots.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to First-time-right dispatch and Storm stock accuracy, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link bad descriptions to truck-roll risk, then show CODA keeping BOMs and compatible parts aligned across depots.
 
 
@@ -652,6 +964,32 @@ How do you decide which suppliers to consolidate first?
 Why this question matters: This opener tests how the persona links "How do you decide which suppliers to consolidate first" to Duplicate prevention in sourcing and Faster RFQs with complete specs, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify savings leakage from duplicates and show CODA accelerating emergency and planned sourcing with clean specs.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Duplicate prevention in sourcing?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Duplicate prevention in sourcing" to Duplicate prevention in sourcing and Faster RFQs with complete specs, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify savings leakage from duplicates and show CODA accelerating emergency and planned sourcing with clean specs.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Duplicate prevention in sourcing and Faster RFQs with complete specs, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify savings leakage from duplicates and show CODA accelerating emergency and planned sourcing with clean specs.
+
 
 ### Rishi Menon — Asset Engineering
 Company: Northwind Grid Co.
@@ -698,6 +1036,32 @@ When standards differ by region, how do you pick the winner?
 Why this question matters: This opener tests how the persona links "When standards differ by region, how do you pick the winner" to Centralized asset standards and BOM accuracy and revision control, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Start with data standardization across regions, then validate a critical asset class with CODA’s recommendations.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Centralized asset standards?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Centralized asset standards" to Centralized asset standards and BOM accuracy and revision control, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Start with data standardization across regions, then validate a critical asset class with CODA’s recommendations.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Centralized asset standards and BOM accuracy and revision control, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Start with data standardization across regions, then validate a critical asset class with CODA’s recommendations.
+
 
 ### Noor Calder — Digital Transformation Lead
 Company: Northwind Grid Co.
@@ -742,6 +1106,32 @@ What does success look like for your next automation release?
   - Coaching: Demos alone don’t stick. Use CODA to ensure production readiness.
 
 Why this question matters: This opener tests how the persona links "What does success look like for your next automation release" to Data readiness for automation/AMI and Reliable master data powering analytics, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses data to unblock automation releases, then co-design a proof for a priority program.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Data readiness for automation/AMI?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Data readiness for automation/AMI" to Data readiness for automation/AMI and Reliable master data powering analytics, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses data to unblock automation releases, then co-design a proof for a priority program.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Data readiness for automation/AMI and Reliable master data powering analytics, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses data to unblock automation releases, then co-design a proof for a priority program.
 
 
@@ -792,6 +1182,32 @@ When duplicate materials slip in, what hurts most?
 Why this question matters: This opener tests how the persona links "When duplicate materials slip in, what hurts most" to Working-capital release and Schedule adherence, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify duplicate-driven cash leakage, link cleansed masters to schedule adherence, and propose a pilot on a flagship line.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Working-capital release?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Working-capital release" to Working-capital release and Schedule adherence, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify duplicate-driven cash leakage, link cleansed masters to schedule adherence, and propose a pilot on a flagship line.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Working-capital release and Schedule adherence, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify duplicate-driven cash leakage, link cleansed masters to schedule adherence, and propose a pilot on a flagship line.
+
 
 ### Alicia Trent — Plant Manager
 Company: Asterline Manufacturing
@@ -836,6 +1252,32 @@ What backup exists when key planners are unavailable?
   - Coaching: Waiting stalls production. CODA is the safety net for continuity.
 
 Why this question matters: This opener tests how the persona links "What backup exists when key planners are unavailable" to Uptime and schedule adherence and Reducing reliance on tribal knowledge, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie master-data reliability to downtime avoidance, then show CODA reducing dependency on a few veterans.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Uptime and schedule adherence?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Uptime and schedule adherence" to Uptime and schedule adherence and Reducing reliance on tribal knowledge, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie master-data reliability to downtime avoidance, then show CODA reducing dependency on a few veterans.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Uptime and schedule adherence and Reducing reliance on tribal knowledge, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie master-data reliability to downtime avoidance, then show CODA reducing dependency on a few veterans.
 
 
@@ -884,6 +1326,32 @@ How do you choose suppliers to consolidate first?
 Why this question matters: This opener tests how the persona links "How do you choose suppliers to consolidate first" to Duplicate prevention during sourcing and Speed to RFQ with complete specs, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Anchor on savings leakage from duplicates, then show CODA accelerating intake and enabling supplier rationalization.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Duplicate prevention during sourcing?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Duplicate prevention during sourcing" to Duplicate prevention during sourcing and Speed to RFQ with complete specs, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Anchor on savings leakage from duplicates, then show CODA accelerating intake and enabling supplier rationalization.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Duplicate prevention during sourcing and Speed to RFQ with complete specs, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Anchor on savings leakage from duplicates, then show CODA accelerating intake and enabling supplier rationalization.
+
 
 ### Serena Valtas — Quality / Engineering
 Company: Asterline Manufacturing
@@ -930,6 +1398,32 @@ How do you trace which spec version is in a shipped product?
 Why this question matters: This opener tests how the persona links "How do you trace which spec version is in a shipped product" to BOM integrity and revision control and Spec harmonization across variants, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Map inconsistent specs to quality risk, then show CODA enforcing harmonization and lineage across lines.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves BOM integrity and revision control?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves BOM integrity and revision control" to BOM integrity and revision control and Spec harmonization across variants, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Map inconsistent specs to quality risk, then show CODA enforcing harmonization and lineage across lines.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to BOM integrity and revision control and Spec harmonization across variants, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Map inconsistent specs to quality risk, then show CODA enforcing harmonization and lineage across lines.
+
 
 ### Jordan Pike — Digital / Analytics Lead
 Company: Asterline Manufacturing
@@ -974,6 +1468,32 @@ What does success look like for your next release?
   - Coaching: Demos alone don’t stick. Use CODA to ensure production readiness.
 
 Why this question matters: This opener tests how the persona links "What does success look like for your next release" to Reliable master data powering analytics and Data readiness for automation, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses and standardizes data to unblock digital initiatives, then co-design a proof for a priority line.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Reliable master data powering analytics?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Reliable master data powering analytics" to Reliable master data powering analytics and Data readiness for automation, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses and standardizes data to unblock digital initiatives, then co-design a proof for a priority line.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Reliable master data powering analytics and Data readiness for automation, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses and standardizes data to unblock digital initiatives, then co-design a proof for a priority line.
 
 
@@ -1024,6 +1544,32 @@ What would you need to see in a 4-week pilot to fund broader rollout?
 Why this question matters: This opener tests how the persona links "What would you need to see in a 4-week pilot to fund broader rollout" to Interoperability across EHR, ERP, and lab systems and Data quality for safety and compliance, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link clean masters to patient safety, report accuracy, and evidence for digital health programs; propose a governed pilot on a high-volume service line.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Interoperability across EHR, ERP, and lab systems?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Interoperability across EHR, ERP, and lab systems" to Interoperability across EHR, ERP, and lab systems and Data quality for safety and compliance, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link clean masters to patient safety, report accuracy, and evidence for digital health programs; propose a governed pilot on a high-volume service line.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Interoperability across EHR, ERP, and lab systems and Data quality for safety and compliance, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Link clean masters to patient safety, report accuracy, and evidence for digital health programs; propose a governed pilot on a high-volume service line.
+
 
 ### Evan Carlisle — Supply Chain Director
 Company: Novella Health Network
@@ -1068,6 +1614,32 @@ How do you ensure substitutions or alternates don’t violate contracts or clini
   - Coaching: Vendor-led alternates risk non-compliance. CODA protects contracts and clinical trust.
 
 Why this question matters: This opener tests how the persona links "How do you ensure substitutions or alternates don’t violate contracts or clinician preferences" to Contract compliance and formulary control and Avoiding duplicates and substitutions, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect clean masters to contract compliance and surgeon satisfaction, then propose a pilot on a priority category (implants, lab reagents).
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Contract compliance and formulary control?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Contract compliance and formulary control" to Contract compliance and formulary control and Avoiding duplicates and substitutions, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect clean masters to contract compliance and surgeon satisfaction, then propose a pilot on a priority category (implants, lab reagents).
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Contract compliance and formulary control and Avoiding duplicates and substitutions, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect clean masters to contract compliance and surgeon satisfaction, then propose a pilot on a priority category (implants, lab reagents).
 
 
@@ -1116,6 +1688,32 @@ When specs differ across facilities, how do you decide the standard?
 Why this question matters: This opener tests how the persona links "When specs differ across facilities, how do you decide the standard" to Recall readiness and traceability and BOM integrity for medical devices, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie normalized asset and part data to recall response and uptime, then pilot on a high-risk device family.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Recall readiness and traceability?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Recall readiness and traceability" to Recall readiness and traceability and BOM integrity for medical devices, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie normalized asset and part data to recall response and uptime, then pilot on a high-risk device family.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Recall readiness and traceability and BOM integrity for medical devices, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie normalized asset and part data to recall response and uptime, then pilot on a high-risk device family.
+
 
 ### Malcolm Ivers — Quality & Compliance Officer
 Company: Novella Health Network
@@ -1162,6 +1760,32 @@ When auditors challenge balances or traceability, how quickly can you respond?
 Why this question matters: This opener tests how the persona links "When auditors challenge balances or traceability, how quickly can you respond" to Audit-ready lineage and approvals and UDI/IFU alignment across systems, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA enforces attributes and traceability for UDI and safety reporting, then co-design an audit pack pilot.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Audit-ready lineage and approvals?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Audit-ready lineage and approvals" to Audit-ready lineage and approvals and UDI/IFU alignment across systems, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA enforces attributes and traceability for UDI and safety reporting, then co-design an audit pack pilot.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Audit-ready lineage and approvals and UDI/IFU alignment across systems, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA enforces attributes and traceability for UDI and safety reporting, then co-design an audit pack pilot.
+
 
 ### Ciara Velasquez — Digital Health Lead
 Company: Novella Health Network
@@ -1206,6 +1830,32 @@ What does success look like for your next release?
   - Coaching: Demos alone don’t stick. Use CODA to ensure production readiness.
 
 Why this question matters: This opener tests how the persona links "What does success look like for your next release" to Data readiness for AI/analytics and Adoption by clinicians and operations, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show CODA as the quickest way to cleanse data feeding analytics or virtual care, then prove adoption in one program.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Data readiness for AI/analytics?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Data readiness for AI/analytics" to Data readiness for AI/analytics and Adoption by clinicians and operations, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show CODA as the quickest way to cleanse data feeding analytics or virtual care, then prove adoption in one program.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Data readiness for AI/analytics and Adoption by clinicians and operations, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show CODA as the quickest way to cleanse data feeding analytics or virtual care, then prove adoption in one program.
 
 
@@ -1256,6 +1906,32 @@ When SKUs drift across channels, what impact do you see first?
 Why this question matters: This opener tests how the persona links "When SKUs drift across channels, what impact do you see first" to On-shelf and online availability and Margin protection via clean assortments, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify margin and availability hits from duplicate or inconsistent SKUs, then pilot CODA on a key category to prove uplift.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves On-shelf and online availability?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves On-shelf and online availability" to On-shelf and online availability and Margin protection via clean assortments, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify margin and availability hits from duplicate or inconsistent SKUs, then pilot CODA on a key category to prove uplift.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to On-shelf and online availability and Margin protection via clean assortments, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify margin and availability hits from duplicate or inconsistent SKUs, then pilot CODA on a key category to prove uplift.
+
 
 ### Felix Munroe — Supply Chain & Logistics Director
 Company: Lumina Retail Collective
@@ -1300,6 +1976,32 @@ How do you measure the cost of duplicate or mislabeled inventory across DCs?
   - Coaching: Buffers hide waste. CODA proves where to reduce safely.
 
 Why this question matters: This opener tests how the persona links "How do you measure the cost of duplicate or mislabeled inventory across DCs" to Accurate replenishment and allocations and Duplicate prevention in DCs and stores, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect data quality to delivery speed and waste reduction, then run a pilot on a high-volume region or DC.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Accurate replenishment and allocations?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Accurate replenishment and allocations" to Accurate replenishment and allocations and Duplicate prevention in DCs and stores, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect data quality to delivery speed and waste reduction, then run a pilot on a high-volume region or DC.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Accurate replenishment and allocations and Duplicate prevention in DCs and stores, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect data quality to delivery speed and waste reduction, then run a pilot on a high-volume region or DC.
 
 
@@ -1348,6 +2050,32 @@ How do you ensure translations or locale variations stay aligned?
 Why this question matters: This opener tests how the persona links "How do you ensure translations or locale variations stay aligned" to Search and recommendation accuracy and Speed to publish new products, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleans and enriches content to lift conversion and reduce returns; pilot on one high-traffic category.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Search and recommendation accuracy?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Search and recommendation accuracy" to Search and recommendation accuracy and Speed to publish new products, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleans and enriches content to lift conversion and reduce returns; pilot on one high-traffic category.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Search and recommendation accuracy and Speed to publish new products, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleans and enriches content to lift conversion and reduce returns; pilot on one high-traffic category.
+
 
 ### Greta Linwood — Inventory Planning Manager
 Company: Lumina Retail Collective
@@ -1394,6 +2122,32 @@ How do you measure the cost of bad masters on forecast error or stockouts?
 Why this question matters: This opener tests how the persona links "How do you measure the cost of bad masters on forecast error or stockouts" to Forecast accuracy and Stock visibility across network, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie clean masters to forecast accuracy and allocation wins, then pilot CODA on a volatile category.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Forecast accuracy?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Forecast accuracy" to Forecast accuracy and Stock visibility across network, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie clean masters to forecast accuracy and allocation wins, then pilot CODA on a volatile category.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Forecast accuracy and Stock visibility across network, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie clean masters to forecast accuracy and allocation wins, then pilot CODA on a volatile category.
+
 
 ### Arman Duval — Data Governance / IT Director
 Company: Lumina Retail Collective
@@ -1438,6 +2192,32 @@ How do you detect and resolve duplicates before they reach downstream systems?
   - Coaching: Reactive fixes hurt CX. CODA prevents issues upfront.
 
 Why this question matters: This opener tests how the persona links "How do you detect and resolve duplicates before they reach downstream systems" to Taxonomy and attribute governance and Cross-system synchronization, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA automates validation and approvals across PIM, ERP, and eCommerce, then run a low-friction pilot with one brand.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Taxonomy and attribute governance?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Taxonomy and attribute governance" to Taxonomy and attribute governance and Cross-system synchronization, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA automates validation and approvals across PIM, ERP, and eCommerce, then run a low-friction pilot with one brand.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Taxonomy and attribute governance and Cross-system synchronization, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA automates validation and approvals across PIM, ERP, and eCommerce, then run a low-friction pilot with one brand.
 
 
@@ -1488,6 +2268,32 @@ How do you evidence lineage and approvals during regulatory exams?
 Why this question matters: This opener tests how the persona links "How do you evidence lineage and approvals during regulatory exams" to Golden records for customer and product and Regulatory reporting accuracy, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect CODA to reduced reconciliation effort and cleaner regulatory submissions, then pilot on a product line.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Golden records for customer and product?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Golden records for customer and product" to Golden records for customer and product and Regulatory reporting accuracy, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect CODA to reduced reconciliation effort and cleaner regulatory submissions, then pilot on a product line.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Golden records for customer and product and Regulatory reporting accuracy, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Connect CODA to reduced reconciliation effort and cleaner regulatory submissions, then pilot on a product line.
+
 
 ### Petra Sandoval — Risk & Compliance Officer
 Company: Apex Horizon Bank
@@ -1532,6 +2338,32 @@ When regulators ask for evidence, how quickly can you provide it?
   - Coaching: Waiting is risky. CODA gives instant answers.
 
 Why this question matters: This opener tests how the persona links "When regulators ask for evidence, how quickly can you provide it" to KYC/AML data completeness and Audit-ready controls and lineage, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA enforces required attributes and lineage to cut false positives and audit prep time; pilot on onboarding.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves KYC/AML data completeness?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves KYC/AML data completeness" to KYC/AML data completeness and Audit-ready controls and lineage, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA enforces required attributes and lineage to cut false positives and audit prep time; pilot on onboarding.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to KYC/AML data completeness and Audit-ready controls and lineage, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA enforces required attributes and lineage to cut false positives and audit prep time; pilot on onboarding.
 
 
@@ -1580,6 +2412,32 @@ How do you measure the impact of bad masters on cycle time or NPS?
 Why this question matters: This opener tests how the persona links "How do you measure the impact of bad masters on cycle time or NPS" to First-time-right servicing and Reducing rework and manual checks, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie data quality to cycle time and rework reduction, then pilot on one claim or servicing journey.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves First-time-right servicing?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves First-time-right servicing" to First-time-right servicing and Reducing rework and manual checks, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie data quality to cycle time and rework reduction, then pilot on one claim or servicing journey.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to First-time-right servicing and Reducing rework and manual checks, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Tie data quality to cycle time and rework reduction, then pilot on one claim or servicing journey.
+
 
 ### Saira Whitfield — Treasury / Finance Transformation
 Company: Apex Horizon Bank
@@ -1626,6 +2484,32 @@ When auditors challenge data lineage, how do you respond?
 Why this question matters: This opener tests how the persona links "When auditors challenge data lineage, how do you respond" to Consolidated visibility across ledgers and Working-capital unlocks from clean data, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify reconciliation effort and cash leakage from duplicates, then pilot CODA to prove faster close on one entity or product line.
 
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Consolidated visibility across ledgers?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Consolidated visibility across ledgers" to Consolidated visibility across ledgers and Working-capital unlocks from clean data, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify reconciliation effort and cash leakage from duplicates, then pilot CODA to prove faster close on one entity or product line.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Consolidated visibility across ledgers and Working-capital unlocks from clean data, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Quantify reconciliation effort and cash leakage from duplicates, then pilot CODA to prove faster close on one entity or product line.
+
 
 ### Theo Marquez — Digital Channels Lead
 Company: Apex Horizon Bank
@@ -1670,5 +2554,31 @@ What does success look like for your next digital release?
   - Coaching: Demos alone don’t stick. Use CODA to ensure production readiness.
 
 Why this question matters: This opener tests how the persona links "What does success look like for your next digital release" to Onboarding speed and accuracy and Personalization with trusted data, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses and standardizes data feeding onboarding and personalization, then pilot on one journey to prove adoption lift.
+
+#### Question 4
+To move forward, what would you need to see in a 4-week PoC to prove CODA improves Onboarding speed and accuracy?
+
+- Optimal: A baseline and target KPI with quantified before/after impact plus a path to scale.
+  - Coaching: Great—anchor the PoC on measurable outcomes and make scaling obvious.
+- Medium: Qualitative stories from users and a few trend lines that point in the right direction.
+  - Coaching: Stories help, but we should tie them to a KPI and a clear success threshold.
+- Unfavorable: Any activity that shows we're working on it, even if the outcomes aren't measured yet.
+  - Coaching: Activity without evidence risks credibility. Keep the PoC laser-focused on proof.
+
+Why this question matters: This opener tests how the persona links "To move forward, what would you need to see in a 4-week PoC to prove CODA improves Onboarding speed and accuracy" to Onboarding speed and accuracy and Personalization with trusted data, positioning CODA as the fastest way to repeat the proof point.
+Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses and standardizes data feeding onboarding and personalization, then pilot on one journey to prove adoption lift.
+
+#### Question 5
+Who must be involved and which data sources stay in scope so the PoC is credible and unblockable?
+
+- Optimal: Include the master data systems that matter most with finance/operations owners in a weekly steerco.
+  - Coaching: Strong plan—governed data and accountable sponsors keep the PoC credible and quick.
+- Medium: Start with a narrow sample and add systems or stakeholders later if it goes well.
+  - Coaching: A narrow start can work if we lock the right systems and sponsors early.
+- Unfavorable: Keep it informal with minimal stakeholders to move fast and avoid red tape.
+  - Coaching: Lightweight is risky. A PoC without the right data or owners will stall.
+
+Why this question matters: This opener tests how the persona links "Who must be involved and which data sources stay in scope so the PoC is credible and unblockable" to Onboarding speed and accuracy and Personalization with trusted data, positioning CODA as the fastest way to repeat the proof point.
 Optimal coaching cue: Strong response—affirm the impact and suggest how CODA proves it in a 4-week pulse. Show how CODA cleanses and standardizes data feeding onboarding and personalization, then pilot on one journey to prove adoption lift.
 
